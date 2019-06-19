@@ -1,3 +1,0 @@
-# contact-keeper-api
-
-test
