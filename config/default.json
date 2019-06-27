@@ -1,4 +1,0 @@
-{
-  "mongoURI": "<your mongo atlas uri>",
-  "jwtSecret": "<your secret>"
-}
